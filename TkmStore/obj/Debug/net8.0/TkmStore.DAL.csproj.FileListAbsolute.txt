@@ -1,0 +1,16 @@
+C:\Users\victo\source\repos\TkmStore\TkmStore\bin\Debug\net8.0\appsettings.json
+C:\Users\victo\source\repos\TkmStore\TkmStore\bin\Debug\net8.0\params.json
+C:\Users\victo\source\repos\TkmStore\TkmStore\bin\Debug\net8.0\TkmStore.DAL.deps.json
+C:\Users\victo\source\repos\TkmStore\TkmStore\bin\Debug\net8.0\TkmStore.DAL.runtimeconfig.json
+C:\Users\victo\source\repos\TkmStore\TkmStore\bin\Debug\net8.0\TkmStore.DAL.dll
+C:\Users\victo\source\repos\TkmStore\TkmStore\bin\Debug\net8.0\TkmStore.DAL.pdb
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\TkmStore.DAL.csproj.AssemblyReference.cache
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\TkmStore.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\TkmStore.DAL.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\TkmStore.DAL.AssemblyInfo.cs
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\TkmStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\TkmStore.DAL.dll
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\refint\TkmStore.DAL.dll
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\TkmStore.DAL.pdb
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\TkmStore.DAL.genruntimeconfig.cache
+C:\Users\victo\source\repos\TkmStore\TkmStore\obj\Debug\net8.0\ref\TkmStore.DAL.dll
